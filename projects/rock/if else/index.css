@@ -1,0 +1,30 @@
+.add-button{  
+    margin: 10px;
+    width: 150px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(97, 187, 97);
+
+}
+
+.move-button{
+    
+    margin: 10px;
+    width: 150px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(97, 187, 97);
+}
+
+.sale-button{
+    
+    margin: 10px;
+    width: 150px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(97, 187, 97);
+
+}
